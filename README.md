@@ -23,25 +23,8 @@ Skills: FLUTTER / PYTORCH / GIT/ DSA / JAVA / PYTHON / C++ / FIGMA
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yonahgraphics)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yonah-byarugaba/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/yonahgraphics)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/yonahgraphics)  
 
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=yonahgraphics)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yonahgraphics)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yonahgraphics&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yonahgraphics)  
-
-![GitHub metrics](https://metrics.lecoq.io/yonahgraphics)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=yonahgraphics)  
-
 ![Profile views](https://gpvc.arturio.dev/yonahgraphics)  
-
-
-
-
-
-
-
