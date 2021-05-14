@@ -4,7 +4,7 @@ I'm passionate about machine learning models, deep learning, mobile app developm
 
 Skills: FLUTTER / PYTORCH / GIT/ DSA / JAVA / PYTHON / C++ / FIGMA
 
-- 💬 Ask me about I'm a CMU student 
+- 💬 Ask me about data science, machine learning and flutter
 - 📫 How to reach me: yonahgraphics@gmail.com 
 - 😄 Pronouns: Him/ his 
 - ⚡ Fun fact: I love design more than code. Just kidding! 
