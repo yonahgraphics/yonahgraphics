@@ -25,6 +25,21 @@ Skills: FLUTTER / PYTORCH / GIT/ DSA / JAVA / PYTHON / C++ / FIGMA
 
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=yonahgraphics)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yonahgraphics)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yonahgraphics&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yonahgraphics)  
+
+![GitHub metrics](https://metrics.lecoq.io/yonahgraphics)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=yonahgraphics)  
+
+![Profile views](https://gpvc.arturio.dev/yonahgraphics)  
+
+
 
 
 
