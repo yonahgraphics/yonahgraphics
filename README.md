@@ -2,7 +2,7 @@
 #### I'm a machine learning/software developer
 I'm passionate about machine learning models, deep learning, mobile app development, and design
 
-Skills: FLUTTER / PYTORCH / GIT/ DSA / JAVA / PYTHON / C++ / FIGMA
+Skills: FLUTTER / PYTORCH / GIT/ JAVA / PYTHON / C++ / FIGMA
 
 - 💬 Ask me about data science, machine learning and flutter
 - 📫 How to reach me: yonahgraphics@gmail.com 
