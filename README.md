@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Yonah
-#### I'm a machine learning/software developer
+#### I'm a machine learning/Data scientist/software developer
 I'm passionate about machine learning models, deep learning, mobile app development, and design
 
 Skills: FLUTTER / PYTORCH / GIT/ JAVA / PYTHON / C++ / FIGMA
