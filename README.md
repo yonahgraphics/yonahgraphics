@@ -6,7 +6,7 @@ Skills: FLUTTER / PYTORCH / GIT/ JAVA / PYTHON / C++ / FIGMA
 
 - 💬 Ask me about data science, machine learning and flutter
 - 📫 How to reach me: yonahgraphics@gmail.com 
-- 😄 Pronouns: Him/ his 
+- 😄 Pronouns: He/him/his  
 - ⚡ Fun fact: I love design more than code. Just kidding! 
 
 
