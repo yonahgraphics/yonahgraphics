@@ -12,8 +12,6 @@ Skills: FLUTTER / PYTORCH/ TENSORFLOW / JAVA / PYTHON / C++ / GIT/ FIGMA
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yonahgraphics)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yonah-byarugaba/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/yonahgraphics) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://www.leetcode.com/yonahgraphics)  
 
-(https://yonah.hashnode.dev/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hasnode' alt='hashnode' height='40'>](https://yonah.hashnode.dev/)  
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yonahgraphics&show_icons=true) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yonahgraphics)](https://github.com/anuraghazra/github-readme-stats)
  
