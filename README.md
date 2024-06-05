@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Yonah
 #### I'm a Data scientist/software developer
-I'm passionate about machine learning models, deep learning, mobile app development, and design
+I'm passionate about machine learning models, deep learning, big data analysis. My goal is to leverage my deep understanding of advanced analytics, predictive modeling, and cutting-edge AI algorithms to develop intelligent systems that maximize energy efficiency, reduce carbon emissions, and enhance the performance of renewable assets
 
 Skills: FLUTTER / PYTORCH/ TENSORFLOW / JAVA / PYTHON / C++ / GIT/ FIGMA
 
