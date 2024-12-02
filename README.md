@@ -7,7 +7,7 @@ Skills: FLUTTER / PYTORCH/ TENSORFLOW / JAVA / PYTHON / C++ / GIT/ FIGMA
 - 💬 Ask me about data science, machine learning and flutter
 - 📫 How to reach me: yonahgraphics@gmail.com 
 - 😄 Pronouns: He/him/his  
-- ⚡ Fun fact: I love design more than code. Just kidding! 
+- ⚡ Fun fact: I love design more than code. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yonahgraphics) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://www.leetcode.com/yonahgraphics)  
