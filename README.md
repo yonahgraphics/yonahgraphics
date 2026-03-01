@@ -1,10 +1,9 @@
 ### Hi there 👋, My name is Yonah
-#### Machine Learning Engineer
-I'm passionate about machine learning models, deep learning, big data analysis. My goal is to leverage my deep understanding of advanced analytics, predictive modeling, and cutting-edge AI algorithms to develop intelligent systems that maximize energy efficiency, reduce carbon emissions, and enhance the performance of renewable assets
-
+#### AI Engineer
+I'm passionate about Agentic AI, foundaional models, deep learning, big data analysis. My goal is to leverage my understanding of advanced analytics, predictive modeling, and cutting-edge AI algorithms to develop intelligent systems that make peoples' lives better
 Skills: PYTORCH/ TENSORFLOW / JAVA / PYTHON / C++
 
-- 💬 Ask me about data science, machine learning and flutter
+- 💬 Ask me about AI agents, deep learning, LLMs
 - 📫 How to reach me: yonahgraphics@gmail.com 
 - 😄 Pronouns: He/him/his  
 - ⚡ Fun fact: I love design more than I love to code. 
